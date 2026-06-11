@@ -10,11 +10,11 @@ app = Flask(__name__)
 
 # 🔧 KONFIGURACIJA – OVO POPUNI
 
-PANEL_URL = "https://dnoxsmm.com/api/v2"
+PANEL_URL = "https://smmapro.com/api/v2"
 
-API_KEY = "93c7585d3928b29f7ceb4fb6faa93e1c"          # npr. 6b4b33ef856ee4ef973fcaa450e62786
+API_KEY = "dc1ab06ff6035c6820503ad5fb191284"          # npr. 6b4b33ef856ee4ef973fcaa450e62786
 
-SERVICE_ID = 4575                        # STAVI TAČAN service ID za TikTok custom comment reply
+SERVICE_ID = 3279                       # STAVI TAČAN service ID za TikTok custom comment reply
 
 
 
@@ -25,14 +25,7 @@ SERVICE_ID = 4575                        # STAVI TAČAN service ID za TikTok cus
 REPLIES_SET_1 = [
     "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
-    "‎This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
-    "‎If you’re trying to find his book, don’t buy it on Amazon. I made that mistake and it was some weird fake version. The real one isn’t even sold there",
-    "Didnt he get banned from Facebook a while ago because he started getting too much attention? I remember people saying the government didnt like what he was talking about. This whole thing is honestly insane.",
-    "Where can I find it? ",
-    "Original version of book you can only get from their official site, Just search name or the author of the book and first site is real..",
-    "Am I the only one who remembers people saying he got silenced after his work started spreading online? The whole story around him is genuinely weird",
-    "The more I hear about this, the stranger it gets. I vaguely remember people saying he disappeared from the spotlight almost overnight",
-    "I could be wrong, but didn't he suddenly vanish from social media after gaining a huge following? That always seemed suspicious to me...",
+    "I usually hate books. But this didn't feel like a book, more like a framework.",
 ]
 
 

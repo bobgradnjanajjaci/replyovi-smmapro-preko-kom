@@ -26,6 +26,8 @@ REPLIES_SET_1 = [
     "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
     "I usually hate books. But this didn't feel like a book, more like a framework.",
+    "This is probably the first book that made me understand why people stay stuck",
+
 ]
 
 

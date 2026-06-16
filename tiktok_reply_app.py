@@ -14,7 +14,7 @@ PANEL_URL = "https://dnoxsmm.com/api/v2"
 
 API_KEY = "fce3f72e2096a5472c2583434b8eee32"          # npr. 6b4b33ef856ee4ef973fcaa450e62786
 
-SERVICE_ID = 4575                       # STAVI TAČAN service ID za TikTok custom comment reply
+SERVICE_ID = 1128                       # STAVI TAČAN service ID za TikTok custom comment reply
 
 
 
@@ -27,6 +27,7 @@ REPLIES_SET_1 = [
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
     "I usually hate books. But this didn't feel like a book, more like a framework.",
     "This is probably the first book that made me understand why people stay stuck",
+    "I didn't understand why people kept talking about this until I got halfway through.."
 
 ]
 

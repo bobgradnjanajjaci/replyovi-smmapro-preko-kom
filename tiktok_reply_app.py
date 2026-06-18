@@ -11,7 +11,7 @@ app = Flask(__name__)
 # 🔧 KONFIGURACIJA – OVO POPUNI
 
 PANEL_URL = "https://smmapro.com/api/v2"  # ili tvoj tačni JAP domen
-API_KEY = "fce3f72e2096a5472c2583434b8eee32"
+API_KEY = "dc1ab06ff6035c6820503ad5fb191284"
 SERVICE_ID = 3279 
 
           # npr. 6b4b33ef856ee4ef973fcaa450e62786

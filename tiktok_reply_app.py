@@ -28,11 +28,11 @@ REPLIES_SET_1 = [
     "I usually hate books. But this didn't feel like a book, more like a framework.",
     "This is probably the first book that made me understand why people stay stuck",
     "I didn't understand why people kept talking about this until I got halfway through..",
-    "AMAZON",
-    "AMAZON",
-    "AMAZON",
-    "AMAZON",
-    "AMAZON",
+    "😃",
+    "😃",
+    "i must read it",
+    "goated book fr",
+    "claim",
 ]
 
 

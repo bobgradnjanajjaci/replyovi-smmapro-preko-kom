@@ -25,11 +25,10 @@ SERVICE_ID = 3279
 
 
 REPLIES_SET_1 = [
-    "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
-    "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
-    "I usually hate books. But this didn't feel like a book, more like a framework.",
-    "This is probably the first book that made me understand why people stay stuck",
-    "I didn't understand why people kept talking about this until I got halfway through..",
+"Everyone online talks about making money with AI. Almost nobody explains how to build a repeatable workflow from scratch. That was the biggest takeaway for me.",
+"The craziest part is that none of this felt complicated once someone explained it properly. I honestly don’t know why nobody teaches AI like this.",
+"Glad someone else mentioned it. It genuinely helped me get my first online income. I’m surprised more people aren’t talking about it yet.",
+"The biggest surprise for me wasn’t that I learned new things. It was realizing how much time I’d spent learning the wrong things.",
     
 ]
 

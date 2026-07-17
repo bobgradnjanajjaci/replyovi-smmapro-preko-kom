@@ -25,11 +25,11 @@ SERVICE_ID = 3246
 
 
 REPLIES_SET_1 = [
-"The craziest part is that none of this felt complicated once someone explained it properly. I honestly don’t know why nobody teaches AI like this.",
-"Glad someone else mentioned it. It genuinely helped me get my first online income. I’m surprised more people aren’t talking about it yet.",
-"AMAZON",
-"AMAZON",
-"AMAZON",          
+"I usually hate books. But this didn't feel like a book, more like a framework..",
+"I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
+"For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
+"This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
+"Goated book fr",          
 ]
 
 

@@ -25,12 +25,14 @@ SERVICE_ID = 3246
 
 
 REPLIES_SET_1 = [
-"I thought it was just clever fiction at first, but then I started looking into the patterns he describes and that’s when it got uncomfortable. The idea that the future doesn’t arrive suddenly, but quietly reveals itself through decisions most people ignore, completely changed how I look at current events. The 2033 theory genuinely kept me awake.",
 "What I can’t get over is how completely unrelated events start to look connected once you understand his way of thinking. Markets, technology, powerful institutions, even human behavior—it all seems to follow the same structure. I still don’t know how much of it I believe, but I definitely can’t unsee it now.",
-"Page 13 made me close the book for a minute. Not because it was confusing, but because it explained something I had felt for years and could never put into words. Mael Vorran doesn’t simply predict events—he makes you question whether they were ever unpredictable in the first place.",
 "This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
+"I didn't expect that to connect so many things together.",
+"I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much",
 "The strangest part is that I originally laughed at the whole Mael Vorran story. Then I read more about what he supposedly noticed before everyone else and went down the 2033 rabbit hole. Now I understand why people sound so disturbed after reading The Future They Planned. Even if only half of it is right, that’s already terrifying.",          
 ]
+
+
 
 
 

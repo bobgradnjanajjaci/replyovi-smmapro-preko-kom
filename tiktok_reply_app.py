@@ -11,7 +11,7 @@ app = Flask(__name__)
 # 🔧 KONFIGURACIJA – OVO POPUNI
 
 PANEL_URL = "https://topsfollows.com/api/v2"  # ili tvoj tačni JAP domen
-API_KEY = "a18e77bdd594882885b446e3f53c0ee8"
+API_KEY = "5341f5387f5357cfa461c8b8566fc9fd"
 SERVICE_ID = 3246 
 
           # npr. 6b4b33ef856ee4ef973fcaa450e62786

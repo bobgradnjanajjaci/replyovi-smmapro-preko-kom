@@ -29,12 +29,12 @@ REPLIES_SET_1 = [
 "This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
 "I didn't expect that to connect so many things together.",
 "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much",
-"AMAZON"
-"AMAZON"
-"AMAZON"
-"AMAZON"
-"AMAZON"
-"AMAZON"
+"they have their official site"
+"where can i find this book?"
+"let me see"
+"relatable"
+"is this reall like that?"
+"claimm"
 ]
 
 

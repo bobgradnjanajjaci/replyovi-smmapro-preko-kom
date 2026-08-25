@@ -10,9 +10,9 @@ app = Flask(__name__)
 
 # 🔧 KONFIGURACIJA – OVO POPUNI
 
-PANEL_URL = "https://topsfollows.com/api/v2"  # ili tvoj tačni JAP domen
-API_KEY = "5341f5387f5357cfa461c8b8566fc9fd"
-SERVICE_ID = 3246 
+PANEL_URL = "https://apiseller.com/api/v2"  # ili tvoj tačni JAP domen
+API_KEY = "e6e0e4036eb41bdbfadcbb8474525075"
+SERVICE_ID = 11020 
 
           # npr. 6b4b33ef856ee4ef973fcaa450e62786
 
@@ -29,7 +29,12 @@ REPLIES_SET_1 = [
 "This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
 "I didn't expect that to connect so many things together.",
 "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much",
-"The strangest part is that I originally laughed at the whole Mael Vorran story. Then I read more about what he supposedly noticed before everyone else and went down the 2033 rabbit hole. Now I understand why people sound so disturbed after reading The Future They Planned. Even if only half of it is right, that’s already terrifying.",          
+"AMAZON"
+"AMAZON"
+"AMAZON"
+"AMAZON"
+"AMAZON"
+"AMAZON"
 ]
 
 

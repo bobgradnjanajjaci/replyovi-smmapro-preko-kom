@@ -25,11 +25,8 @@ SERVICE_ID = 3246
 
 
 REPLIES_SET_1 = [
-"Where can I find it?",
 "It’s honestly strange how some of the things he talks about start making more sense once you notice the patterns yourself.",
-"Who is Mael Vorran?",
 "I saw that his book was removed a few times, and there are rumors that the author is part of some high tier people. It really revealed too much.",
-"I hope he will release more stories.",
 ]
 
 

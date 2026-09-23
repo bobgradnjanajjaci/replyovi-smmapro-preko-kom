@@ -25,8 +25,8 @@ SERVICE_ID = 3246
 
 
 REPLIES_SET_1 = [
-"It’s honestly strange how some of the things he talks about start making more sense once you notice the patterns yourself.",
-"Yeah, that’s the part that stuck with me too. Once you start looking at timing and patterns differently, a lot of things stop looking random",
+"For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle",
+"I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much..."
 ]
 
 

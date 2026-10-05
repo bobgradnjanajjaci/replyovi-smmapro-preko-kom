@@ -25,8 +25,8 @@ SERVICE_ID = 3246
 
 
 REPLIES_SET_1 = [
-"Glad someone else mentioned it. It genuinely helped me get my first online income. I’m surprised more people aren’t talking about it yet.",
-"The craziest part is that none of this felt complicated once someone explained it properly. I honestly don’t know why nobody teaches AI like this",
+"Girl, I can’t believe someone else has read her book. What fascinates me even more is how few people are talking about it, because I can honestly say this book has the potential to be the next bestseller.",
+"I also read that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes.",
 ]
 
 

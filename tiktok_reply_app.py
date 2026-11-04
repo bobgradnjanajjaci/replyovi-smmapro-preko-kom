@@ -13,12 +13,13 @@ SERVICE_ID = 4121
 # 🔁 LISTE REPLYEVA – TVOJE LISTE
 
 REPLIES_SET_1 = [
-    "if you’re going to read this, do it when you’re alone and can actually sit with your thoughts for an hour, because the part about silent boundaries will make you rethink your whole dating history",
-    "i was so skeptical when i first saw girls talking about her in the comments, but curiosity got the best of me last night and it genuinely rewired my entire perspective.",
-    "wait where did you girls find it??",
-    "you can only get it directly on official site called alversett effect, she kept it independent and apparently she's taking this edition down before her 2027 documentary comes out",
-    "heavy on this!! i listen to the audio version of the alversett effect on my morning walks whenever i feel myself slipping back into old habits and it snaps me right back into focus.",
+    "I also read that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes. ",
+     "heavy on this!! i listen to the audio version of the alversett effect on my morning walks whenever i feel myself slipping back into old habits and it snaps me right back into focus.",
+"ㅤ",
+"ㅤ",
+"ㅤ",
 ]
+
 
 REPLIES_SET_2 = [
     "this book changed my life too a few years ago. It’s not the usual BS like other LOA books, i genuinely recommend everyone to read it. Logan is a genius",

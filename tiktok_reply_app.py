@@ -15,9 +15,9 @@ SERVICE_ID = 4121
 REPLIES_SET_1 = [
     "I also read that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes. ",
     "I can honestly say this has the potential to be the next bestseller.",
-"ㅤ",
-"ㅤ",
-"ㅤ",
+"Girl, I can’t believe someone else has read her book. What fascinates me even more is how few people are talking about it, because I can honestly say this book has the potential to be the next bestseller. ",
+"THIS. i usually hate typical self-help books because they feel so fake, but nora alversett doesn't sugarcoat anything. ",
+"I must read it",
 ]
 
 

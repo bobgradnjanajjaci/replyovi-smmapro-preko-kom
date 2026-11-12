@@ -1,4 +1,4 @@
-from flask import Flask, render_template_string, request
+zfrom flask import Flask, render_template_string, request
 import requests
 
 app = Flask(__name__)
@@ -14,10 +14,11 @@ SERVICE_ID = 4121
 
 REPLIES_SET_1 = [
     "I also read that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes. ",
-    "I can honestly say this has the potential to be the next bestseller.",
-"Girl, I can’t believe someone else has read her book. What fascinates me even more is how few people are talking about it, because I can honestly say this book has the potential to be the next bestseller. ",
-"THIS. i usually hate typical self-help books because they feel so fake, but nora alversett doesn't sugarcoat anything. ",
-"I must read it",
+    "ㅤ",
+"heavy on this!! i listen to the audio version of the alversett effect on my morning walks whenever i feel myself slipping back into old habits and it snaps me right back into focus.",
+"ㅤ",
+"ㅤ",
+"ㅤ",
 ]
 
 

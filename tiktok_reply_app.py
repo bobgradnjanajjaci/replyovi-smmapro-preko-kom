@@ -14,7 +14,7 @@ SERVICE_ID = 4121
 
 REPLIES_SET_1 = [
 "I also read that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes. ",
-"heavy on this!! i listen to the audio version of the alversett effect on my morning walks whenever i feel myself slipping back into old habits and it snaps me right back into focus.",
+"heavy on this, i listen to the audio version of the alversett effect on my morning walks whenever i feel myself slipping back into old habits and it snaps me right back into focus.",
 "the craziest part is when you actually look her up on your browser and find her independent archive, you immediately see why she had to release this outside of traditional publishing ",
 "I was just looking for a fun book but when i started reading i couldn't believe how powerful it is",
 "the trend is actually real for once. I’m so glad girls are finally waking up to this one",

@@ -19,6 +19,11 @@ REPLIES_SET_1 = [
 "i honestly thought it was just another dating ebook at first lol. then i read the five-second rule on page 8 and my jaw dropped, i can’t unsee it now",
 "i opened this expecting light reading and ended up staying up until 3am taking notes. page 2 alone explains why nobody talks about this stuff",
 "literally nobody talks about the gap between a rehearsed answer and the first five seconds. reading this saved me months of guessing",
+"I also read that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes.",
+"so comforting to read something that actually understands what women deal with day to day and it actually works"
+"It helped me process so much that I was just pushing aside",
+"read this last month and I’m still thinking about it",
+"I can’t believe someone else has read her book. What fascinates me even more is how few people are talking about it, because I can honestly say this book has the biggest potential",
 ]
 
 

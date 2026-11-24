@@ -13,12 +13,12 @@ SERVICE_ID = 4121
 # 🔁 LISTE REPLYEVA – TVOJE LISTE
 
 REPLIES_SET_1 = [
-"I also read that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes. ",
-"heavy on this, i listen to the audio version of the alversett effect on my morning walks whenever i feel myself slipping back into old habits and it snaps me right back into focus.",
-"the craziest part is when you actually look her up on your browser and find her independent archive, you immediately see why she had to release this outside of traditional publishing ",
-"I was just looking for a fun book but when i started reading i couldn't believe how powerful it is",
-"the trend is actually real for once. I’m so glad girls are finally waking up to this one",
-"I can honestly say this has the potential to be the next bestseller.",
+"the trend is actually real for once. i’m so glad girls are finally waking up to this one",
+"wait is this actually the drawer four notes?? i read her lawyer made her leave all the real questions out of the first book and she kept them offline until now",
+"no because i asked question 3 from page 187 last night and that 3 second pause told me everything i needed to know. this book is actually crazy",
+"i honestly thought it was just another dating ebook at first lol. then i read the five-second rule on page 8 and my jaw dropped, i can’t unsee it now",
+"i opened this expecting light reading and ended up staying up until 3am taking notes. page 2 alone explains why nobody talks about this stuff",
+"literally nobody talks about the gap between a rehearsed answer and the first five seconds. reading this saved me months of guessing",
 ]
 
 
